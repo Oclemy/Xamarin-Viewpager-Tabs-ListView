@@ -1,0 +1,22 @@
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\bin\Debug\Viewpager Tabs ListView.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\bin\Debug\Viewpager Tabs ListView.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\bin\Debug\Viewpager_Tabs_ListView.Viewpager_Tabs_ListView.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\bin\Debug\Viewpager_Tabs_ListView.Viewpager_Tabs_ListView-Signed.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\Viewpager Tabs ListView.csprojResolveAssemblyReference.cache
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\Viewpager Tabs ListView.dll
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\Viewpager Tabs ListView.pdb
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\android\bin\Viewpager_Tabs_ListView.Viewpager_Tabs_ListView.apk
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\res\layout\main.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\res\values\strings.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\res\drawable\icon.png
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\R.cs.flag
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\uploadflags.txt
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\res\layout\crimelayout.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\res\layout\dramalayout.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\res\layout\documentary.xml
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\res\drawable\oranges.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\res\drawable\coconut.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\res\drawable\mango.jpg
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\obj\Debug\Viewpager Tabs ListView.dll.mdb
+C:\Users\Hp\Documents\Visual Studio 2013\Projects\Android Tutorials\Viewpager Tabs ListView\Viewpager Tabs ListView\bin\Debug\Viewpager Tabs ListView.dll.mdb
